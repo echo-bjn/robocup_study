@@ -1,0 +1,2 @@
+plumbing_pub_sub
+-DCATKIN_DEVEL_PREFIX=/home/robocup/Documents/ros_study/demo03_ws_topic_communication/devel -DCMAKE_INSTALL_PREFIX=/home/robocup/Documents/ros_study/demo03_ws_topic_communication/install -G Unix Makefiles

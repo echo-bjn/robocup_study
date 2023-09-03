@@ -1,0 +1,2 @@
+tf01_static:tf02_dynamic:tf03_tfs:tf04_test
+-DCATKIN_DEVEL_PREFIX=/home/robocup/Documents/study/demo08_ws_TF/devel -DCMAKE_INSTALL_PREFIX=/home/robocup/Documents/study/demo08_ws_TF/install -G Unix Makefiles

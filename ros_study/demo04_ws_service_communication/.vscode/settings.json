@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/robocup/Documents/study/demo04_ws_service_communication/devel/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/robocup/Documents/study/demo04_ws_service_communication/devel/lib/python3/dist-packages"
+    ]
+}

@@ -1,0 +1,2 @@
+plumbing_server_client
+-DCATKIN_DEVEL_PREFIX=/home/robocup/Documents/study/demo04_ws_service_communication/devel -DCMAKE_INSTALL_PREFIX=/home/robocup/Documents/study/demo04_ws_service_communication/install -G Unix Makefiles

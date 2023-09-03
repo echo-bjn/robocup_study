@@ -1,0 +1,4 @@
+<launch>
+    <!--include标签:复用start_turtle.launch文件-->
+    <include file="$(find plumbing_turtlesim)/launch/start_turtle.launch" />
+</launch>

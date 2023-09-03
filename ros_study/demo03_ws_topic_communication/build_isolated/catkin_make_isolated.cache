@@ -1,0 +1,2 @@
+plumbing_pub_sub
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/robocup/Documents/study/demo03_ws_topic_communication/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/robocup/Documents/study/demo03_ws_topic_communication/install_isolated

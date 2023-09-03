@@ -1,0 +1,8 @@
+# CMake generated Testfile for 
+# Source directory: /home/robocup/Documents/study/demo06_ws_turtle_example/src
+# Build directory: /home/robocup/Documents/study/demo06_ws_turtle_example/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("plumbing_test")

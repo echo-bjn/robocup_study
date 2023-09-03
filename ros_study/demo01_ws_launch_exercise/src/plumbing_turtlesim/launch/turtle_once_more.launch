@@ -1,0 +1,6 @@
+<launch>
+    <param name="A" value="100" />
+    <node pkg="turtlesim" type="turtlesim_node" name="my_turtle" output="screen">
+        <param name="B" value="200" />
+    </node>
+</launch>

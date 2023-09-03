@@ -1,0 +1,2 @@
+plumbing_parameter_server
+-DCATKIN_DEVEL_PREFIX=/home/robocup/Documents/study/demo05_ws_parameter_server/devel -DCMAKE_INSTALL_PREFIX=/home/robocup/Documents/study/demo05_ws_parameter_server/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+plumbing_turtlesim
+-DCATKIN_DEVEL_PREFIX=/home/robocup/Documents/study/demo01_ws_exercise/devel -DCMAKE_INSTALL_PREFIX=/home/robocup/Documents/study/demo01_ws_exercise/install -G Unix Makefiles

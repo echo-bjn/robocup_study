@@ -1,0 +1,2 @@
+pub_sub_topic_communication
+-DCATKIN_DEVEL_PREFIX=/home/robocup/Documents/ros_study/demo09_review/devel -DCMAKE_INSTALL_PREFIX=/home/robocup/Documents/ros_study/demo09_review/install -G Unix Makefiles

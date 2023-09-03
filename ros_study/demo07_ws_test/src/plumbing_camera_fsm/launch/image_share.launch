@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="plumbing_camera_fsm" type="camera.py" name="my_camera" output="screen" />
+    <node pkg="plumbing_camera_fsm" type="fsm.py" name="my_fsm" output="screen" />
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/robocup/Documents/study/demo05_ws_parameter_server/devel
+
+Name: plumbing_parameter_server
+Description: Description of plumbing_parameter_server
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

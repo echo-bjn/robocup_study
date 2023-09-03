@@ -1,0 +1,2 @@
+plumbing_camera_fsm
+-DCATKIN_DEVEL_PREFIX=/home/robocup/Documents/ros_study/demo07_ws_test/devel -DCMAKE_INSTALL_PREFIX=/home/robocup/Documents/ros_study/demo07_ws_test/install -G Unix Makefiles

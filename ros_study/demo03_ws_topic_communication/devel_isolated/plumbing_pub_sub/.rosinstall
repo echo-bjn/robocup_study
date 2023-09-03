@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robocup/Documents/study/demo03_ws_topic_communication/devel_isolated/plumbing_pub_sub/setup.sh

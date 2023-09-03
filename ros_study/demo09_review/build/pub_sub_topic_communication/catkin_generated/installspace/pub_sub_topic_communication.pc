@@ -1,0 +1,8 @@
+prefix=/home/robocup/Documents/ros_study/demo09_review/install
+
+Name: pub_sub_topic_communication
+Description: Description of pub_sub_topic_communication
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime

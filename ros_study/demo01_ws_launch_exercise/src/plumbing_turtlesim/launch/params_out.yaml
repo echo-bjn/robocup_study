@@ -1,0 +1,4 @@
+roslaunch:
+  uris:
+    host_robocup_asus_tuf_gaming_f15_fx506hcb__39541: http://robocup-ASUS-TUF-Gaming-F15-FX506HCB:39541/
+run_id: d5b98df0-c6a0-11ed-99cf-a162a1f1c1c0
